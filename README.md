@@ -1,5 +1,9 @@
 # weather-app
 
+![](preview/preview1.JPG)
+![](preview/preview2.JPG)
+
+
 ## Project setup
 ```
 npm install
